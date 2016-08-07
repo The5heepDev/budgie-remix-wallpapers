@@ -1,9 +1,9 @@
 # A collection of wallpapers I have created for Budgie Remix
 
-flatLobster:
-![flatLobster](flatLobster.jpg)
-flatUbuntu:
-![flatUbuntu](flatUbuntu.jpg)
+flat:
+![flat](flat.jpg)
+flatNoShadow:
+![flatNoShadow](flatNoShadow.jpg)
 reverse1:
 ![reverse1](reverse1.jpg)
 reverse2:
